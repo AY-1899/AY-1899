@@ -33,30 +33,6 @@ Oncology-focused SME across UK, Nordic, and Irish markets. Trilingual in Arabic,
 
 ---
 
-## What's in This Repository
-
-This repo contains MI and PV workflow resources I've built as practical tools and reference materials — documentation templates, AI prompt libraries, and Python automation scripts.
-
-### 📁 [`workflows/`](./workflows/)
-Process guides for MI inquiry handling — from intake triage through to dispatch and closure.
-
-### 📁 [`templates/`](./templates/)
-Structured document templates for SRD authorship and ICSR processing.
-
-### 📁 [`prompt-libraries/`](./prompt-libraries/)
-Modular AI prompts (compatible with Claude, GPT-4, or any LLM) for:
-- 2nd-line HCP query handling — 7 prompts
-- Adverse event triage — 8 prompts
-- SRD drafting — 8 prompts
-
-### 📁 [`scripts/`](./scripts/)
-Python utilities for MI workflows:
-- **`pubmed_search.py`** — search PubMed by keyword and export results to CSV
-- **`case_tracker.py`** — log and track MI inquiry cases from the command line
-- **`response_checker.py`** — scan draft MI responses for compliance issues before dispatch
-
----
-
 ## Focus Areas
 
 - AI-assisted Medical Information — prompt engineering for MI and PV workflows
